@@ -42,11 +42,9 @@ customer-segmentation/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/YOURUSERNAME/customer-segmentation.git
-cd customer-segmentation
 
 2. Install dependencies
-pip install -r requirements.txt
+pip install -r requirements
 
 3. Run the app
 py -m streamlit run segmentation.py
